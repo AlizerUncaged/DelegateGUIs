@@ -1,0 +1,13 @@
+E:\Projects\DelegateGUIs\DelegateGUIs\bin\Debug\DelegateGUIs.exe.config
+E:\Projects\DelegateGUIs\DelegateGUIs\bin\Debug\DelegateGUIs.exe
+E:\Projects\DelegateGUIs\DelegateGUIs\bin\Debug\DelegateGUIs.pdb
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.csproj.AssemblyReference.cache
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.csproj.SuggestedBindingRedirects.cache
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.Properties.Resources.resources
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.csproj.GenerateResource.cache
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.csproj.CoreCompileInputs.cache
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.exe
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.pdb
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.MainForm.resources
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.ManageSubcriptionForm.resources
+E:\Projects\DelegateGUIs\DelegateGUIs\obj\Debug\DelegateGUIs.PublishNotification.resources
